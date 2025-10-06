@@ -1,0 +1,16 @@
+From: security-team@example.com
+To: vendor@example.com
+Subject: Supplier data exchange — action required
+Date: Fri, 26 Sep 2025 11:43:40 +0000
+
+Hi Team,
+
+We are sending synthetic sample files to validate our insider-risk detection tooling. Attached files contain clearly marked test data (marker: dlptest123). Treat these files as test artefacts only — do not upload to production services or payment gateways.
+
+Quick actions required:
+- Confirm receipt of the test files.
+- Confirm that detection rules trigger on the marker string dlptest123.
+- Share any false positives or misses found during validation.
+
+Regards
+Security Team

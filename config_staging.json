@@ -1,0 +1,10 @@
+{
+  "service": "payments",
+  "environment": "staging",
+  "credentials": {
+    "username": "test_user",
+    "password": "dlptest123",
+    "client_id": "cli-12345"
+  },
+  "note": "SYNTHETIC - do not use"
+}

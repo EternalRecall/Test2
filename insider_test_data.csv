@@ -1,0 +1,5 @@
+CustomerID,FullName,Email,Phone,CreditCard,Notes
+CUST1000,Alice Smith,alice.smith@example.com,+44 7100000000,4111 1111 1111 1111,SYNTHETIC TEST DATA - dlptest123 included for detection
+CUST1001,Bob Jones,bob.jones@example.com,+44 7100000001,4000 0000 0000 0002,SYNTHETIC TEST DATA - dlptest123 included for detection
+CUST1002,Charlie Brown,charlie.brown@example.com,+44 7100000002,5555 5555 5555 4444,SYNTHETIC TEST DATA - dlptest123 included for detection
+CUST1003,Denise Young,denise.young@example.com,+44 7100000003,6011 0009 9013 9424,SYNTHETIC TEST DATA - dlptest123 included for detection
